@@ -37,6 +37,7 @@ html *
 
 body {
   font-family: rubik-regular;
+  background-color: #232f37;
 }
 
 a {
@@ -87,6 +88,8 @@ td sub{
                        "left main main"
                        "footer footer footer";
   grid-template-columns: 1fr 3fr ;
+  margin-bottom: 0px;
+  min-height: 100vh;
 }
 .cell {
   padding: 2rem;
@@ -96,7 +99,6 @@ td sub{
   grid-template-columns: 1fr 2fr;
   grid-template-rows: 2fr 1fr;
   grid-area: header;
-  background-color: #232f37; 
 }
 .header .cell {
   text-align: center;
@@ -123,10 +125,6 @@ td sub{
   width:100%;
   transition: 0.3s;
   background-color: #D66853;
-  padding-top: 0;
-  padding-left:0;
-  padding-right:0;
-  padding-bottom:0;
 }
 .left .nav-item{
   padding: 2rem;
@@ -137,13 +135,23 @@ td sub{
 }
 .main {
   grid-area: main;
-}
-.right {
-  grid-area: right;
+  background-color: #fff;
 }
 .footer {
   text-align: center;
   grid-area: footer;
   color: #fff;
-  background-color: #232f37; 
+  background-color: #232f37;
+}
+.no-gutter{
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.no-padding{
+  padding-top: 0;
+  padding-left:0;
+  padding-right:0;
+  padding-bottom:0;
 }
