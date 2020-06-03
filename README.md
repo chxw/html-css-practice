@@ -26,7 +26,18 @@ Using HTML5 and CSS, create a personal portfolio. The three required personal we
 ## Files:
 TBD
 
-## References:
-Lazaris, Louis. (3 March 2020). *A Basic HTML5 Template For Any Project*. Retreived from [https://www.sitepoint.com/a-basic-html5-template/](https://www.sitepoint.com/a-basic-html5-template/).
+SVG icons are from themify (their CSS stylesheet was NOT used in this). Retrieved from [https://themify.me/themify-icons](https://themify.me/themify-icons).
 
-Developerdrive Staff. (N.A.). *How to Create a CSS Grid Step-by-Step**. Retreived from [https://www.developerdrive.com/how-to-create-a-css-grid-step-by-step/](https://www.developerdrive.com/how-to-create-a-css-grid-step-by-step/).
+## Reflection:
+Respect to whoever is some CSS genius. It took me so long to make this very ugly page. 
+
+## References:
+[https://www.sitepoint.com/a-basic-html5-template/](https://www.sitepoint.com/a-basic-html5-template/).
+
+[https://www.developerdrive.com/how-to-create-a-css-grid-step-by-step/](https://www.developerdrive.com/how-to-create-a-css-grid-step-by-step/).
+
+[https://www.w3schools.com/howto/howto_css_icon_bar.asp](https://www.w3schools.com/howto/howto_css_icon_bar.asp).
+
+[https://stackoverflow.com/questions/7025756/how-to-apply-global-font-to-whole-html-document](https://stackoverflow.com/questions/7025756/how-to-apply-global-font-to-whole-html-document).
+
+[https://stackoverflow.com/questions/8919682/remove-all-styling-formatting-from-hyperlinks/8919740](https://stackoverflow.com/questions/8919682/remove-all-styling-formatting-from-hyperlinks/8919740).
