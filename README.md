@@ -29,7 +29,7 @@ TBD
 SVG icons are from themify (their CSS stylesheet was NOT used in this). Retrieved from [https://themify.me/themify-icons](https://themify.me/themify-icons).
 
 ## Reflection:
-Respect to whoever is some CSS genius. It took me so long to make this very ugly page. 
+Respect to whoever is really good at CSS. I spent 6 hours on this, and the page still feels pretty ugly. 
 
 ## References:
 [https://www.sitepoint.com/a-basic-html5-template/](https://www.sitepoint.com/a-basic-html5-template/).
@@ -41,3 +41,5 @@ Respect to whoever is some CSS genius. It took me so long to make this very ugly
 [https://stackoverflow.com/questions/7025756/how-to-apply-global-font-to-whole-html-document](https://stackoverflow.com/questions/7025756/how-to-apply-global-font-to-whole-html-document).
 
 [https://stackoverflow.com/questions/8919682/remove-all-styling-formatting-from-hyperlinks/8919740](https://stackoverflow.com/questions/8919682/remove-all-styling-formatting-from-hyperlinks/8919740).
+
+[https://stackoverflow.com/questions/12589758/font-face-doesnt-work#:~:text=One%20source%20of%20the%20problem,not%20to%20the%20root%20folder.](https://stackoverflow.com/questions/12589758/font-face-doesnt-work#:~:text=One%20source%20of%20the%20problem,not%20to%20the%20root%20folder.)
