@@ -1,14 +1,5 @@
 /*FONT STYLING*/
 
-/*@font-face {
-    font-family: 'Inlove';
-    src: url('inlove-light-wf.eot'); /* IE9 Compat Modes */
-    src: url('inlove-light-wf.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('inlove-light-wf.woff') format('woff'), /* Modern Browsers */
-         url('inlove-light-wf.ttf')  format('truetype'), /* Safari, Android, iOS */
-         url('inlove-light-wf.svg#svgFontName') format('svg'); /* Legacy iOS */
-}*/
-
 @font-face{
   font-family:rubik-regular;
   src: url(font/rubik-regular-webfont.woff) format('woff'),
@@ -49,6 +40,7 @@ p {
   line-height: 32px;
   margin-bottom: 30px;
   font-family:roboto-regular;
+  font-size: 13px !important;
 }
 
 table {
