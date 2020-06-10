@@ -78,14 +78,14 @@ The requirements and guidelines of this assignment were completed/followed. The 
 3. Making sure the website is supported by all browsers. For example, for the `@font-face` rule, the following could be added to ensure fonts are supported by various browsers:
 
 ```
-			/*@font-face {
-			    font-family: 'Inlove';
-			    src: url('inlove-light-wf.eot'); /* IE9 Compat Modes */
-			    src: url('inlove-light-wf.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-			         url('inlove-light-wf.woff') format('woff'), /* Modern Browsers */
-			         url('inlove-light-wf.ttf')  format('truetype'), /* Safari, Android, iOS */
-			         url('inlove-light-wf.svg#svgFontName') format('svg'); /* Legacy iOS */
-			}*/ 
+/*@font-face {
+    font-family: 'Inlove';
+    src: url('inlove-light-wf.eot'); /* IE9 Compat Modes */
+    src: url('inlove-light-wf.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('inlove-light-wf.woff') format('woff'), /* Modern Browsers */
+         url('inlove-light-wf.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('inlove-light-wf.svg#svgFontName') format('svg'); /* Legacy iOS */
+}*/ 
 ```
 
 Respect to whoever is really good at CSS. I spent \~7 hours on this, and the page still feels pretty ugly. Maybe I'll try a 'minimalist' look next pass. 
