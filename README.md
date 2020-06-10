@@ -24,50 +24,51 @@ A personal portfolio created from scratch using HTML5/CSS. The three required pe
 4. Link to short biography.
 
 ## Files:
-				.
-				├── README.md
-				├── bio.html
-				├── font
-				│   ├── LICENSE.txt
-				│   ├── OFL.txt
-				│   ├── Roboto-Black.ttf
-				│   ├── Roboto-BlackItalic.ttf
-				│   ├── Roboto-Bold.ttf
-				│   ├── Roboto-BoldItalic.ttf
-				│   ├── Roboto-Italic.ttf
-				│   ├── Roboto-Light.ttf
-				│   ├── Roboto-LightItalic.ttf
-				│   ├── Roboto-Medium.ttf
-				│   ├── Roboto-MediumItalic.ttf
-				│   ├── Roboto-Regular.ttf
-				│   ├── Roboto-Thin.ttf
-				│   ├── Roboto-ThinItalic.ttf
-				│   ├── Rubik-Black.ttf
-				│   ├── Rubik-BlackItalic.ttf
-				│   ├── Rubik-Bold.ttf
-				│   ├── Rubik-BoldItalic.ttf
-				│   ├── Rubik-Italic.ttf
-				│   ├── Rubik-Light.ttf
-				│   ├── Rubik-LightItalic.ttf
-				│   ├── Rubik-Medium.ttf
-				│   ├── Rubik-MediumItalic.ttf
-				│   ├── Rubik-Regular.ttf
-				│   ├── roboto-regular-webfont.woff
-				│   ├── rubik-regular-webfont.woff
-				│   └── themify.svg
-				├── images
-				│   └── me.jpg
-				├── index.html
-				├── resume.html
-				├── stylesheet.css
-				└── svg
-				    ├── flickr.svg
-				    ├── github.svg
-				    ├── home.svg
-				    ├── link.svg
-				    ├── stack-overflow.svg
-				    └── vimeo-alt.svg
-
+```
+.
+├── README.md
+├── bio.html
+├── font
+│   ├── LICENSE.txt
+│   ├── OFL.txt
+│   ├── Roboto-Black.ttf
+│   ├── Roboto-BlackItalic.ttf
+│   ├── Roboto-Bold.ttf
+│   ├── Roboto-BoldItalic.ttf
+│   ├── Roboto-Italic.ttf
+│   ├── Roboto-Light.ttf
+│   ├── Roboto-LightItalic.ttf
+│   ├── Roboto-Medium.ttf
+│   ├── Roboto-MediumItalic.ttf
+│   ├── Roboto-Regular.ttf
+│   ├── Roboto-Thin.ttf
+│   ├── Roboto-ThinItalic.ttf
+│   ├── Rubik-Black.ttf
+│   ├── Rubik-BlackItalic.ttf
+│   ├── Rubik-Bold.ttf
+│   ├── Rubik-BoldItalic.ttf
+│   ├── Rubik-Italic.ttf
+│   ├── Rubik-Light.ttf
+│   ├── Rubik-LightItalic.ttf
+│   ├── Rubik-Medium.ttf
+│   ├── Rubik-MediumItalic.ttf
+│   ├── Rubik-Regular.ttf
+│   ├── roboto-regular-webfont.woff
+│   ├── rubik-regular-webfont.woff
+│   └── themify.svg
+├── images
+│   └── me.jpg
+├── index.html
+├── resume.html
+├── stylesheet.css
+└── svg
+    ├── flickr.svg
+    ├── github.svg
+    ├── home.svg
+    ├── link.svg
+    ├── stack-overflow.svg
+    └── vimeo-alt.svg
+```
 
 ## Reflection:
 
@@ -75,6 +76,8 @@ The requirements and guidelines of this assignment were completed/followed. The 
 1. Everything related to padding, margin, gutters, gaps, etc. 
 2. Next time it would be good to create a "design system". Something to better organize and keep track of cascading hierarchies. I'm sure there are redundancies / inefficiences in my stylesheet -- there was a lot of trial-and-error work instead of systematized work. 
 3. Making sure the website is supported by all browsers. For example, for the `@font-face` rule, the following could be added to ensure fonts are supported by various browsers:
+
+```
 			/*@font-face {
 			    font-family: 'Inlove';
 			    src: url('inlove-light-wf.eot'); /* IE9 Compat Modes */
@@ -83,6 +86,7 @@ The requirements and guidelines of this assignment were completed/followed. The 
 			         url('inlove-light-wf.ttf')  format('truetype'), /* Safari, Android, iOS */
 			         url('inlove-light-wf.svg#svgFontName') format('svg'); /* Legacy iOS */
 			}*/ 
+```
 
 Respect to whoever is really good at CSS. I spent \~7 hours on this, and the page still feels pretty ugly. Maybe I'll try a 'minimalist' look next pass. 
 
